@@ -1,17 +1,14 @@
 <h1 align="center"><code>Vconfig</code></h1> <p align="center"> <img src="https://github.com/ViewTechOrg/Crack-IG/blob/master/img%3F/20250606_001442.jpg" width="590"><br><br> <img src="https://img.shields.io/static/v1?label=ViewTechTeam&color=green&message=+&logo=nano&logoColor=white&style=for-the-badge"> <img src="https://img.shields.io/static/v1?label=Author&color=green&message=viewTech+ORG&logo=nim&logoColor=white&style=for-the-badge"><br> <img src="https://img.shields.io/github/stars/ViewTechOrg/Vconfig?logo=github&style=for-the-badge"> <img src="https://img.shields.io/static/v1?label=Version&color=green&message=0.1&logo=Clockify&logoColor=white&style=for-the-badge"><br><br> <img src="https://img.shields.io/github/contributors/ViewTechOrg/Vconfig?logo=apache&style=for-the-badge"><br> <img src="https://img.shields.io/static/v1?label=Termux&color=green&message=+&logo=Iterm2&logoColor=white&style=flat"> <img src="https://img.shields.io/github/forks/ViewTechOrg/Vconfig?logo=github&style=flat"><br> <br><br>
 
-**Crack-IG** Adalah alat untuk menebak password account instagram dengan metode yang bernama BruteForce, **Bruteforce** (atau brute-force attack) adalah metode untuk menemukan password, kunci enkripsi, atau data rahasia lainnya dengan cara mencoba semua kemungkinan kombinasi hingga menemukan yang benar.
+**Vconfig** Adalah alat untuk memper mudah anda dalam mencari config Http custom All operator.
 
 ### Alat-Alat Yang Di ButuhKan
 - Aplikasi Termux
-- Account Instagram (untuk mengumpulkan username orng lain)
 - Koneksi Internet (Anda harus siapkan Koneksi yang stabil)
 
 ### Fitur Utama
-- Menggumpulkan Data Username dari Generate Username
-- Menggumpulkan Data Username dari Followers
-- Menggumpulkan Data Username dari Follow
-- Metode Login Api Dan Web
+- Menampilkan list config http custom terbaru
+- Donwload config http custom
 
   
 ### Command Instalasi
